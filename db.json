@@ -114,7 +114,7 @@
       "id": 1,
       "title": "lfgrp01",
       "active": true,
-      "validityPeriod": 80,
+      "validityPeriod": 365,
       "freeReTakes": 1,
       "exams": [
         {
@@ -159,7 +159,7 @@
       "id": 2,
       "title": "lfgrp02",
       "active": true,
-      "validityPeriod": 80,
+      "validityPeriod": 365,
       "freeReTakes": 1,
       "exams": [
         {
@@ -204,7 +204,7 @@
       "id": 3,
       "title": "lfgrp03",
       "active": true,
-      "validityPeriod": 80,
+      "validityPeriod": 365,
       "freeReTakes": 1,
       "exams": [
         {
