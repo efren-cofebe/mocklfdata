@@ -109,5 +109,141 @@
       "tipsUrl": "url"
     }
   ],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }]
+  "certificationPrograms": [
+    {
+      "id": 1,
+      "title": "lfgrp01",
+      "active": true,
+      "validityPeriod": 80,
+      "freeReTakes": 1,
+      "exams": [
+        {
+          "id": 5,
+          "code": "LFCS05",
+          "name": "Linux Certified System Admin 05",
+          "certificationProgram": "lfgrp01",
+          "active": true,
+          "passingScore": 80,
+          "freeReTakes": 1,
+          "tiCourseUUID": "ABCDEF",
+          "examType": "Virtual",
+          "duration": 60,
+          "platforms": ["Ubuntu", "OpenSuse"],
+          "customExpiration": false,
+          "willExpiresOnDate": null,
+          "handbookUrl": "url",
+          "faqUrl": "url",
+          "tipsUrl": "url"
+        },
+        {
+          "id": 6,
+          "code": "LFCS05",
+          "name": "Linux Certified System Admin 06",
+          "certificationProgram": "lfgrp01",
+          "active": true,
+          "passingScore": 80,
+          "freeReTakes": 1,
+          "tiCourseUUID": "ABCDEF",
+          "examType": "Virtual",
+          "duration": 60,
+          "platforms": ["Ubuntu", "OpenSuse"],
+          "customExpiration": false,
+          "willExpiresOnDate": null,
+          "handbookUrl": "url",
+          "faqUrl": "url",
+          "tipsUrl": "url"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "lfgrp02",
+      "active": true,
+      "validityPeriod": 80,
+      "freeReTakes": 1,
+      "exams": [
+        {
+          "id": 5,
+          "code": "LFCS05",
+          "name": "Linux Certified System Admin 05",
+          "certificationProgram": "lfgrp01",
+          "active": true,
+          "passingScore": 80,
+          "freeReTakes": 1,
+          "tiCourseUUID": "ABCDEF",
+          "examType": "Virtual",
+          "duration": 60,
+          "platforms": ["Ubuntu", "OpenSuse"],
+          "customExpiration": false,
+          "willExpiresOnDate": null,
+          "handbookUrl": "url",
+          "faqUrl": "url",
+          "tipsUrl": "url"
+        },
+        {
+          "id": 6,
+          "code": "LFCS05",
+          "name": "Linux Certified System Admin 06",
+          "certificationProgram": "lfgrp01",
+          "active": true,
+          "passingScore": 80,
+          "freeReTakes": 1,
+          "tiCourseUUID": "ABCDEF",
+          "examType": "Virtual",
+          "duration": 60,
+          "platforms": ["Ubuntu", "OpenSuse"],
+          "customExpiration": false,
+          "willExpiresOnDate": null,
+          "handbookUrl": "url",
+          "faqUrl": "url",
+          "tipsUrl": "url"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "lfgrp03",
+      "active": true,
+      "validityPeriod": 80,
+      "freeReTakes": 1,
+      "exams": [
+        {
+          "id": 5,
+          "code": "LFCS05",
+          "name": "Linux Certified System Admin 05",
+          "certificationProgram": "lfgrp01",
+          "active": true,
+          "passingScore": 80,
+          "freeReTakes": 1,
+          "tiCourseUUID": "ABCDEF",
+          "examType": "Virtual",
+          "duration": 60,
+          "platforms": ["Ubuntu", "OpenSuse"],
+          "customExpiration": false,
+          "willExpiresOnDate": null,
+          "handbookUrl": "url",
+          "faqUrl": "url",
+          "tipsUrl": "url"
+        },
+        {
+          "id": 6,
+          "code": "LFCS05",
+          "name": "Linux Certified System Admin 06",
+          "certificationProgram": "lfgrp01",
+          "active": true,
+          "passingScore": 80,
+          "freeReTakes": 1,
+          "tiCourseUUID": "ABCDEF",
+          "examType": "Virtual",
+          "duration": 60,
+          "platforms": ["Ubuntu", "OpenSuse"],
+          "customExpiration": false,
+          "willExpiresOnDate": null,
+          "handbookUrl": "url",
+          "faqUrl": "url",
+          "tipsUrl": "url"
+        }
+      ]
+    }
+  ]
 }
