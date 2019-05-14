@@ -246,6 +246,7 @@
       ]
     }
   ],
+
   "userExams": [
     {
       "id": 1,
@@ -255,9 +256,6 @@
         "lastName": "Lim",
         "email": "efren@cofebe.com"
       },
-      "active": true,
-      "validityPeriod": 365,
-      "freeReTakes": 1,
       "exam": {
         "id": 5,
         "code": "LFCS05",
@@ -275,7 +273,25 @@
         "handbookUrl": "url",
         "faqUrl": "url",
         "tipsUrl": "url"
-      }
+      },
+      "examDate": 1557821056400,
+      "timeZone": "Pacific Standard Time(PST)",
+      "region": "Chicago/America",
+      "platform": "Ubuntu",
+      "awsRegion": "us-east-2",
+      "psiReservationId": "1234656",
+      "lfReservationId": "9845843",
+      "examStatus": "Pass",
+      "score": 0,
+      "expirationDate": 1557821056400,
+      "isVisibleToLearner": true,
+      "isRetake": true,
+      "awsStatus": "Graded",
+      "proctorShutdown": "Completed",
+      "examNotes": "",
+      "isScoreSent": true,
+      "dateCreated": 1557821056400,
+      "dateUpdated": 1557821056400
     },
     {
       "id": 2,
@@ -285,9 +301,6 @@
         "lastName": "Lehotsky",
         "email": "ml@lf.com"
       },
-      "active": true,
-      "validityPeriod": 365,
-      "freeReTakes": 1,
       "exam": {
         "id": 5,
         "code": "LFCS05",
@@ -305,7 +318,25 @@
         "handbookUrl": "url",
         "faqUrl": "url",
         "tipsUrl": "url"
-      }
+      },
+      "examDate": 1557821056400,
+      "timeZone": "Pacific Standard Time(PST)",
+      "region": "Chicago/America",
+      "platform": "Ubuntu",
+      "awsRegion": "us-east-2",
+      "psiReservationId": "1234656",
+      "lfReservationId": "9845843",
+      "examStatus": "Pass",
+      "score": 0,
+      "expirationDate": 1557821056400,
+      "isVisibleToLearner": true,
+      "isRetake": true,
+      "awsStatus": "Graded",
+      "proctorShutdown": "Completed",
+      "examNotes": "",
+      "isScoreSent": true,
+      "dateCreated": 1557821056400,
+      "dateUpdated": 1557821056400
     },
     {
       "id": 3,
@@ -315,9 +346,7 @@
         "lastName": "Licquia",
         "email": "jeff@lf.com"
       },
-      "active": true,
-      "validityPeriod": 365,
-      "freeReTakes": 1,
+
       "exam": {
         "id": 5,
         "code": "LFCS05",
@@ -335,7 +364,25 @@
         "handbookUrl": "url",
         "faqUrl": "url",
         "tipsUrl": "url"
-      }
+      },
+      "examDate": 1557821056400,
+      "timeZone": "Pacific Standard Time(PST)",
+      "region": "Chicago/America",
+      "platform": "Ubuntu",
+      "awsRegion": "us-east-2",
+      "psiReservationId": "1234656",
+      "lfReservationId": "9845843",
+      "examStatus": "Pass",
+      "score": 0,
+      "expirationDate": 1557821056400,
+      "isVisibleToLearner": true,
+      "isRetake": true,
+      "awsStatus": "Graded",
+      "proctorShutdown": "Completed",
+      "examNotes": "",
+      "isScoreSent": true,
+      "dateCreated": 1557821056400,
+      "dateUpdated": 1557821056400
     }
   ]
 }
