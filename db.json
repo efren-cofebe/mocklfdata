@@ -249,7 +249,7 @@
   "userExams": [
     {
       "id": 1,
-      "leaner": {
+      "learner": {
         "id": 1,
         "firstName": "Efren",
         "lastName": "Lim",
@@ -279,7 +279,7 @@
     },
     {
       "id": 2,
-      "leaner": {
+      "learner": {
         "id": 1,
         "firstName": "Michal",
         "lastName": "Lehotsky",
@@ -309,7 +309,7 @@
     },
     {
       "id": 3,
-      "leaner": {
+      "learner": {
         "id": 1,
         "firstName": "Jeff",
         "lastName": "Licquia",
