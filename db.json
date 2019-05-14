@@ -245,5 +245,97 @@
         }
       ]
     }
+  ],
+  "userExams": [
+    {
+      "id": 1,
+      "leaner": {
+        "id": 1,
+        "firstName": "Efren",
+        "lastName": "Lim",
+        "email": "efren@cofebe.com"
+      },
+      "active": true,
+      "validityPeriod": 365,
+      "freeReTakes": 1,
+      "exams": {
+        "id": 5,
+        "code": "LFCS05",
+        "name": "Linux Certified System Admin 05",
+        "certificationProgram": "lfgrp01",
+        "active": true,
+        "passingScore": 80,
+        "freeReTakes": 1,
+        "tiCourseUUID": "ABCDEF",
+        "examType": "Virtual",
+        "duration": 60,
+        "platforms": ["Ubuntu", "OpenSuse"],
+        "customExpiration": false,
+        "willExpiresOnDate": null,
+        "handbookUrl": "url",
+        "faqUrl": "url",
+        "tipsUrl": "url"
+      }
+    },
+    {
+      "id": 2,
+      "leaner": {
+        "id": 1,
+        "firstName": "Michal",
+        "lastName": "Lehotsky",
+        "email": "ml@lf.com"
+      },
+      "active": true,
+      "validityPeriod": 365,
+      "freeReTakes": 1,
+      "exams": {
+        "id": 5,
+        "code": "LFCS05",
+        "name": "Linux Certified System Admin 05",
+        "certificationProgram": "lfgrp01",
+        "active": true,
+        "passingScore": 80,
+        "freeReTakes": 1,
+        "tiCourseUUID": "ABCDEF",
+        "examType": "Virtual",
+        "duration": 60,
+        "platforms": ["Ubuntu", "OpenSuse"],
+        "customExpiration": false,
+        "willExpiresOnDate": null,
+        "handbookUrl": "url",
+        "faqUrl": "url",
+        "tipsUrl": "url"
+      }
+    },
+    {
+      "id": 3,
+      "leaner": {
+        "id": 1,
+        "firstName": "Jeff",
+        "lastName": "Licquia",
+        "email": "jeff@lf.com"
+      },
+      "active": true,
+      "validityPeriod": 365,
+      "freeReTakes": 1,
+      "exams": {
+        "id": 5,
+        "code": "LFCS05",
+        "name": "Linux Certified System Admin 05",
+        "certificationProgram": "lfgrp01",
+        "active": true,
+        "passingScore": 80,
+        "freeReTakes": 1,
+        "tiCourseUUID": "ABCDEF",
+        "examType": "Virtual",
+        "duration": 60,
+        "platforms": ["Ubuntu", "OpenSuse"],
+        "customExpiration": false,
+        "willExpiresOnDate": null,
+        "handbookUrl": "url",
+        "faqUrl": "url",
+        "tipsUrl": "url"
+      }
+    }
   ]
 }
