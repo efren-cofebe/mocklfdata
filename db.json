@@ -258,7 +258,7 @@
       "active": true,
       "validityPeriod": 365,
       "freeReTakes": 1,
-      "exams": {
+      "exam": {
         "id": 5,
         "code": "LFCS05",
         "name": "Linux Certified System Admin 05",
@@ -288,7 +288,7 @@
       "active": true,
       "validityPeriod": 365,
       "freeReTakes": 1,
-      "exams": {
+      "exam": {
         "id": 5,
         "code": "LFCS05",
         "name": "Linux Certified System Admin 05",
@@ -318,7 +318,7 @@
       "active": true,
       "validityPeriod": 365,
       "freeReTakes": 1,
-      "exams": {
+      "exam": {
         "id": 5,
         "code": "LFCS05",
         "name": "Linux Certified System Admin 05",
