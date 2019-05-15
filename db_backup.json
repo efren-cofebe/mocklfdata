@@ -199,6 +199,51 @@
           "tipsUrl": "url"
         }
       ]
+    },
+    {
+      "id": 3,
+      "title": "lfgrp03",
+      "active": true,
+      "validityPeriod": 365,
+      "freeReTakes": 1,
+      "exams": [
+        {
+          "id": 5,
+          "code": "LFCS05",
+          "name": "Linux Certified System Admin 05",
+          "certificationProgram": "lfgrp01",
+          "active": true,
+          "passingScore": 80,
+          "freeReTakes": 1,
+          "tiCourseUUID": "ABCDEF",
+          "examType": "Virtual",
+          "duration": 60,
+          "platforms": ["Ubuntu", "OpenSuse"],
+          "customExpiration": false,
+          "willExpiresOnDate": null,
+          "handbookUrl": "url",
+          "faqUrl": "url",
+          "tipsUrl": "url"
+        },
+        {
+          "id": 6,
+          "code": "LFCS05",
+          "name": "Linux Certified System Admin 06",
+          "certificationProgram": "lfgrp01",
+          "active": true,
+          "passingScore": 80,
+          "freeReTakes": 1,
+          "tiCourseUUID": "ABCDEF",
+          "examType": "Virtual",
+          "duration": 60,
+          "platforms": ["Ubuntu", "OpenSuse"],
+          "customExpiration": false,
+          "willExpiresOnDate": null,
+          "handbookUrl": "url",
+          "faqUrl": "url",
+          "tipsUrl": "url"
+        }
+      ]
     }
   ],
 
@@ -211,6 +256,97 @@
         "lastName": "Lim",
         "email": "efren@cofebe.com"
       },
+      "exam": {
+        "id": 5,
+        "code": "LFCS05",
+        "name": "Linux Certified System Admin 05",
+        "certificationProgram": "lfgrp01",
+        "active": true,
+        "passingScore": 80,
+        "freeReTakes": 1,
+        "tiCourseUUID": "ABCDEF",
+        "examType": "Virtual",
+        "duration": 60,
+        "platforms": ["Ubuntu", "OpenSuse"],
+        "customExpiration": false,
+        "willExpiresOnDate": null,
+        "handbookUrl": "url",
+        "faqUrl": "url",
+        "tipsUrl": "url"
+      },
+      "examDate": 1557821056400,
+      "timeZone": "Pacific Standard Time(PST)",
+      "region": "Chicago/America",
+      "platform": "Ubuntu",
+      "awsRegion": "us-east-2",
+      "psiReservationId": "1234656",
+      "lfReservationId": "9845843",
+      "examStatus": "Pass",
+      "score": 0,
+      "expirationDate": 1557821056400,
+      "isVisibleToLearner": true,
+      "isRetake": true,
+      "awsStatus": "Graded",
+      "proctorShutdown": "Completed",
+      "examNotes": "",
+      "isScoreSent": true,
+      "dateCreated": 1557821056400,
+      "dateUpdated": 1557821056400
+    },
+    {
+      "id": 2,
+      "learner": {
+        "id": 1,
+        "firstName": "Michal",
+        "lastName": "Lehotsky",
+        "email": "ml@lf.com"
+      },
+      "exam": {
+        "id": 5,
+        "code": "LFCS05",
+        "name": "Linux Certified System Admin 05",
+        "certificationProgram": "lfgrp01",
+        "active": true,
+        "passingScore": 80,
+        "freeReTakes": 1,
+        "tiCourseUUID": "ABCDEF",
+        "examType": "Virtual",
+        "duration": 60,
+        "platforms": ["Ubuntu", "OpenSuse"],
+        "customExpiration": false,
+        "willExpiresOnDate": null,
+        "handbookUrl": "url",
+        "faqUrl": "url",
+        "tipsUrl": "url"
+      },
+      "examDate": 1557821056400,
+      "timeZone": "Pacific Standard Time(PST)",
+      "region": "Chicago/America",
+      "platform": "Ubuntu",
+      "awsRegion": "us-east-2",
+      "psiReservationId": "1234656",
+      "lfReservationId": "9845843",
+      "examStatus": "Pass",
+      "score": 0,
+      "expirationDate": 1557821056400,
+      "isVisibleToLearner": true,
+      "isRetake": true,
+      "awsStatus": "Graded",
+      "proctorShutdown": "Completed",
+      "examNotes": "",
+      "isScoreSent": true,
+      "dateCreated": 1557821056400,
+      "dateUpdated": 1557821056400
+    },
+    {
+      "id": 3,
+      "learner": {
+        "id": 1,
+        "firstName": "Jeff",
+        "lastName": "Licquia",
+        "email": "jeff@lf.com"
+      },
+
       "exam": {
         "id": 5,
         "code": "LFCS05",
